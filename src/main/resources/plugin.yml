@@ -1,0 +1,10 @@
+name: DragonTrail
+version: '1.0'
+main: net.abhinav.dragontrail.DragonTrail
+api-version: '1.21'
+load: STARTUP
+authors: [ Abhinav VS ]
+commands:
+  toggledragontrail:
+    description: Toggle the dragon trail effect
+    usage: /<command>
